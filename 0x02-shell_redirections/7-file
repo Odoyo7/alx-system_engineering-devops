@@ -1,4 +1,2 @@
 #!/bin/bash
-echo -e "Best School"  >> "\\\\\\'\"Best School\"\\'\\\\$\\?\\\\\\\\\\*:)" 
-rm .7-file.swp
-
+echo -e "Best School"  >> "\\\\\\'\"Best School\"\\'\\\\$\\?\\\\\\\\\\*:)"
