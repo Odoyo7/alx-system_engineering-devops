@@ -1,3 +1,2 @@
-rm .9-duplicate_last_line.swp
 #!/bin/bash
 tail -n 1 iacta >> iacta
